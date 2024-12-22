@@ -3,7 +3,7 @@ Semantic Consistency Network with Edge Learner and Connectivity Enhancer for Cer
 
 Lisha Pang, Peng He*, Yue Han, Hao Cui, Peng Feng, Chi Zhang*, Sukun Tian, Pan Huang*
 
-Ours manuscript is in peer review, and we will completely open our code and dataset after the peer review.
+Ours manuscript is in the peer review, and we will completely open our code and dataset after the peer review.
 
 
 # Introduction
