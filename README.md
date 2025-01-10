@@ -10,7 +10,7 @@ Ours manuscript is in the peer review, and we will completely open our code and 
 xxxx
 
 ---
-![image](https://github.com/Baron-Huang/ERNet/blob/main/Image/main.jpg)
+![image](https://github.com/Baron-Huang/ERNet/blob/main/Image/)
 
 
 # Dataset
